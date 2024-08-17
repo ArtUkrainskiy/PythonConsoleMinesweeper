@@ -2,6 +2,8 @@
 
 This repository contains code for a Minesweeper game and an automatic solver, as discussed in the blog post at [Habr](https://habr.com/ru/articles/833494/).
 
+![Screenshot](https://github.com/ArtUkrainskiy/PythonConsoleMinesweeper/blob/master/image.png?raw=true)
+
 ## Features
 
 - **Minesweeper Game**: A compact implementation of the classic Minesweeper game in Python.
